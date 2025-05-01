@@ -336,7 +336,7 @@ body.light-theme{
 .home__handle{
   justify-self: center;
   width: 160px;
-  height: 331px;
+  height: 200px;
   background: linear-gradient(180deg,
               hsla(var(--first-hue), var(--sat), var(--lig), 1),
               hsla(var(--first-hue), var(--sat), var(--lig), .2)  
@@ -1041,8 +1041,8 @@ body.light-theme{
     height: calc(var(--header-height) + 1rem);
   }
   .home__handle{
-    width: 290px;
-    height: 400px;
+    width: 220px;
+    height: 300px;
   }
   .home__img{
     width: 220px;
